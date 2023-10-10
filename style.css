@@ -140,4 +140,10 @@ footer>div{
     .books{
         height: 250px;
     }
+    .section-container{
+        display: flex;
+        flex-direction: row;
+        margin: 0% 5%;
+        font-size: 15px;
+    }
 }
