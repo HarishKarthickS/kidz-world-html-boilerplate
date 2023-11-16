@@ -125,7 +125,9 @@ footer>div{
       header h5 {
         font-size: 15px;
       }
-    
+      header-text{
+          font-size:15px;
+      }
       .header-text {
         padding: 0% 60% 5% 5%;
       }
