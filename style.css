@@ -111,7 +111,7 @@ footer>div{
     align-items: end;
     margin: 0% 6%;
 }
-@media (max-width:400px) {
+@media (max-width:480px) {
     header {
         height: 200px;
         font-size: 15px;
@@ -127,7 +127,7 @@ footer>div{
       }
       header-text{
           font-size:15px;
-          height: 200px;
+          height: 150px;
       }
       .header-text {
         padding: 0% 60% 5% 5%;
