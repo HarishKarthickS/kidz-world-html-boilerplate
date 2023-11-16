@@ -40,7 +40,7 @@ header{
     justify-content: space-evenly;
     height: 300px;
     color: aliceblue;
-    font-size: 25px;
+    font-size: 21px;
 }
 .flex{
     display: flex;
@@ -127,6 +127,7 @@ footer>div{
       }
       header-text{
           font-size:15px;
+          height: 200px;
       }
       .header-text {
         padding: 0% 60% 5% 5%;
